@@ -1,0 +1,11 @@
+<configuration>
+    <property>
+        <name>yarn.resourcemanager.hostname</name>
+        <value>resourcemanager</value>
+    </property>
+
+    <property>
+        <name>yarn.web-proxy.address</name>
+        <value>webappproxy:9099</value>
+    </property>
+</configuration>
